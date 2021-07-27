@@ -20,7 +20,7 @@ export default class Users extends Component {
 
         return (
             <div className = "Maanda">
-                <h1>{this.state.push.age} {this.state.surname} {this.state.push._name} {this.state.push.location}</h1>
+                <h1>{this.state..age} {this.state.surname} {this.state.._name} {this.state..location}</h1>
                 <h3> { this.getSurname.message} </h3>
             
             </div>
